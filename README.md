@@ -8,7 +8,7 @@ runAnalysis()
 
 Input:
 -----
-Human Activity Recognition dataset built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
+From the UCI website - Human Activity Recognition dataset built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
 Assumptions about the input data:
 The runAnalysis.r script assumes that the "UCI HAR dataset" directoryis in the same directory as the script.
